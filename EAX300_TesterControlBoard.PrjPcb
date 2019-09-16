@@ -114,12 +114,12 @@ Path=..\..\..\Documents\Altium\libraries\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=title
-Value=EAX300_TesterControlBoard
-
-[Parameter2]
 Name=rev
 Value=A0
+
+[Parameter2]
+Name=title
+Value=EAX300_TesterControlBoard
 
 [Configuration1]
 Name=Sources
