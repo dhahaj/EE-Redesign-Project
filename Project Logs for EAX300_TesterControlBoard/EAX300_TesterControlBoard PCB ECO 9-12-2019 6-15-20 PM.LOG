@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VPP Pin=J2-1
+Removed Pin From Net: NetName=VDD Pin=J2-2
+Removed Pin From Net: NetName=VPP Pin=J3-1
+Removed Pin From Net: NetName=VDD Pin=J3-2
+Removed Pin From Net: NetName=BATT_PWR Pin=J3-9
+Removed Pin From Net: NetName=GND Pin=J3-11
+Removed Pin From Net: NetName=PGD Pin=J3-14
+Removed Pin From Net: NetName=GND Pin=J3-15
+Removed Pin From Net: NetName=PGC Pin=J3-16
+Change Component Footprint: Designator=J3 Old Footprint=16C_2P HEADER New Footprint=HDR2X5
+Change Component Comment : Designator=J3 Old Comment=8x2_HEADER New Comment=Header 5X2
+Added Pin To Net: NetName=_VPP Pin=J2-1
+Added Pin To Net: NetName=_VDD Pin=J2-2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetC7_1

@@ -1,0 +1,69 @@
+Change component parameters: Designator = "L1"; Footprint = "BOUR-SRR1280-2_V"; UniqueID = "\WNKAGVOA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Current Max"; Value = "3.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance Max"; Value = "57MOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "82uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum DC Current"; Value = "3.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum DC Resistance"; Value = "57mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Operating Temperature"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Self Resonant Frequency"; Value = "9.5MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR P/N"; Value = "SRR1280-820M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "SRR1280"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR1X6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(ADI-RU-16_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-153AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.analog.com/en/index.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/ADG1636.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http:/www.analog.com/static/imported-files/packages/36244347913743854010197452789RU16.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Id, Is (ON)"; Value = "300pA, 300pA, 100pA, 50pA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is OFF"; Value = "100pA, 100pA, 50pA, 20pA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Thin Shrink Small Outline Package, Body 5 x 4.4 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RU-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Nov-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ADG1636BRUZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "4.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ron (ohms)"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWR_IN Pin=C5-1
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=PWR_IN Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=5V Pin=U2-13
+Added Pin To Net: NetName=_VDD Pin=J?-2
+Added Pin To Net: NetName=_VDD Pin=K1-8
+Added Net: Name=_VDD
+Added Pin To Net: NetName=_VPP Pin=J?-1
+Added Pin To Net: NetName=_VPP Pin=K1-3
+Added Net: Name=_VPP
+Added Pin To Net: NetName=LB_EN Pin=R6-1
+Added Net: Name=LB_EN
+Added Pin To Net: NetName=PGC Pin=J?-5
+Added Net: Name=PGC
+Added Pin To Net: NetName=PGD Pin=J?-4
+Added Net: Name=PGD
+Added Pin To Net: NetName=PGM_EN Pin=R7-1
+Added Pin To Net: NetName=PGM_EN Pin=U2-1
+Added Pin To Net: NetName=PGM_EN Pin=U2-9
+Added Net: Name=PGM_EN
+Added Pin To Net: NetName=VDD Pin=K1-7
+Added Net: Name=VDD
+Added Pin To Net: NetName=VPP Pin=K1-4
+Added Net: Name=VPP
+Added Member To Class: ClassName=EAX300_TesterControlBoard Member=Component J? PicKit3
+Added Member To Class: ClassName=EAX300_TesterControlBoard Member=Component U2 ADG1636BRUZ

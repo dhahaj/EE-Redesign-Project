@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VPP Pin=J2-1
+Removed Pin From Net: NetName=VDD Pin=J2-2
+Removed Pin From Net: NetName=5V Pin=J3-3
+Removed Pin From Net: NetName=GND Pin=J3-11
+Removed Pin From Net: NetName=GND Pin=J3-15
+Removed Pin From Net: NetName=PGC Pin=J3-16
+Change Component Footprint: Designator=J3 Old Footprint=16C_2P HEADER New Footprint=HDR2X8
+Change Component Comment : Designator=J3 Old Comment=8x2_HEADER New Comment=Header 8X2
+Added Component: Designator=D2(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "{Value}"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=_VPP Pin=J2-1
+Added Pin To Net: NetName=_VDD Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Pin To Net: NetName=PGC Pin=J3-15
+Added Pin To Net: NetName=GND Pin=J3-16
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetC7_1
+Added Member To Class: ClassName=EAX300_TesterControlBoard Member=Component D2 1N4002
+Added Member To Class: ClassName=EAX300_TesterControlBoard Member=Component D3 1N4002

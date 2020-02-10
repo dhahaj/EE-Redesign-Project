@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=892CC973-A98D-4FF9-9E4F-0030947B3E24
+VaultGUID=F05C31DC-7631-4A0A-A4AB-FD41BC38C457
+ReleaseVaultName=Altium Concord Pro on Altium 365
+ItemGUID=892CC973-A98D-4FF9-9E4F-0030947B3E24
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -114,12 +117,12 @@ Path=..\..\..\Documents\Altium\libraries\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=rev
-Value=A0
-
-[Parameter2]
 Name=title
 Value=EAX300_TesterControlBoard
+
+[Parameter2]
+Name=rev
+Value=A0
 
 [Configuration1]
 Name=Sources
