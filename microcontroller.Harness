@@ -1,6 +1,2 @@
-3D_ACCEL=3D_CS,3D_SDO,3D_SDI,3D_SPC
-Group_4_In=Bypass,DPS,OKC,IKC,Latch,Test Mode
-Jumper1-2=Jumper1,Jumper2
-Offboard_Out=Siren,Bypass Relay,Alarm Relay,Magnet
-PadA-B=PadB,PadA
-Program_Pins=PGC,PGD
+Offboard_Out=Bypass Relay,Alarm Relay,Magnet
+Relays=BYPASSC,BYPASS,ALARMC,ALARM

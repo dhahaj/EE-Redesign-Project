@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=Brother HL-L2395DW series
+TargetPrinter=Brother HL-L2395DW series (Copy 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -62,19 +62,17 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration2_Name1=ColumnNameFormat
 Configuration2_Item1=CaptionAsName
 Configuration2_Name2=General
-Configuration2_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1691|FormHeight=934|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration2_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1526|FormHeight=753|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration2_Name3=GroupOrder
 Configuration2_Item3=Footprint=True|Value=True|Comment=True|Detex P/N=True|DocumentName=True
-Configuration2_Name4=SortOrder
-Configuration2_Item4=DocumentName=Up
-Configuration2_Name5=VisibleOrder
-Configuration2_Item5=Quantity=47|Designator=152|Value=69|Comment=120|Detex P/N=100|Description=218|MFR=100|MFR P/N=100|DocumentName=196|Footprint=104
-Configuration2_Name6=VisibleOrder_Flat
-Configuration2_Item6=Quantity=47|Designator=152|Value=69|Comment=120|Detex P/N=100|Description=218|MFR=100|MFR P/N=100|DocumentName=196|Footprint=104
+Configuration2_Name4=VisibleOrder
+Configuration2_Item4=Quantity=47|Designator=152|Value=69|Detex P/N=100|Description=218|MFR=100|MFR P/N=100|Footprint=104
+Configuration2_Name5=VisibleOrder_Flat
+Configuration2_Item5=Quantity=47|Designator=152|Value=69|Detex P/N=100|Description=218|MFR=100|MFR P/N=100|Footprint=104
 OutputType3=Gerber
 OutputName3=Mother Board Gerber Files
 OutputCategory3=Fabrication
-OutputDocumentPath3=Mother_Board.PcbDoc
+OutputDocumentPath3=Mother_Board.~(96).PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -113,7 +111,7 @@ Configuration5_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType6=NC Drill
 OutputName6=Mother Board NC Drill Files
 OutputCategory6=Fabrication
-OutputDocumentPath6=Mother_Board.PcbDoc
+OutputDocumentPath6=Mother_Board.~(96).PcbDoc
 OutputVariantName6=
 OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
