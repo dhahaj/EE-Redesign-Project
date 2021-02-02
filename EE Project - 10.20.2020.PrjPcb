@@ -387,23 +387,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLAIPKUD
 
-[Document21]
-DocumentPath=Simulation\project_sim_config.simcfg
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for EE Project - Copy\BOM\Bill of Materials-EE Project - Copy.xlsx
 DItemRevisionGUID=
