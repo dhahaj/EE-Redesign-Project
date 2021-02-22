@@ -32,10 +32,7 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=C971400C-C833-4F37-8580-86060023BAF4
-VaultGUID=F05C31DC-7631-4A0A-A4AB-FD41BC38C457
-ReleaseVaultName=Altium Concord Pro on Altium 365
-ItemGUID=C971400C-C833-4F37-8580-86060023BAF4
+ManagedProjectGUID=
 IncludeDesignInRelease=1
 
 [Preferences]
