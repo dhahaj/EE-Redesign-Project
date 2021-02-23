@@ -32,7 +32,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=4FAFB93C-7E08-4612-B844-C8F32CD1D12D
+VaultGUID=F05C31DC-7631-4A0A-A4AB-FD41BC38C457
+ReleaseVaultName=Altium Concord Pro on Altium 365
+ItemGUID=4FAFB93C-7E08-4612-B844-C8F32CD1D12D
 IncludeDesignInRelease=1
 
 [Preferences]
@@ -401,6 +404,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document22]
+DocumentPath=Copy of Mother_Board_New - 4 Layers.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LBMVNBTP
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for EE Project - Copy\BOM\Bill of Materials-EE Project - Copy.xlsx
 DItemRevisionGUID=
@@ -538,274 +558,278 @@ DocumentPath=Project Outputs for EE Project - Copy\Design Rule Check - Connector
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Design Rule Check - Mother_Board_New - 4 Layers - Fixed.html
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Design Rule Check - Copy of Mother_Board_New - 4 Layers.html
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Design Rule Check - Mother_Board_New - 4 Layers.html
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Design Rule Check - Mother_Board_New - 4 Layers - Fixed.html
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for EE Project - Copy\EE Project - Copy.xlsx
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Design Rule Check - Mother_Board_New - 4 Layers.html
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.DRR
+DocumentPath=Project Outputs for EE Project - Copy\EE Project - Copy.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.EXTREP
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GBL
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GBO
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GBP
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GBS
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GD1
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GKO
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GTL
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GTO
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GTP
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GTS
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.LDP
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.REP
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.RUL
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.REP
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.TXT
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.EXTREP
+DocumentPath=Project Outputs for EE Project - Copy\LCD_Board.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GBL
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GBO
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GBP
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GBS
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GD1
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GKO
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GTL
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GTO
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GTP
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GTS
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.REP
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.RUL
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.REP
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed.EXTREP
+DocumentPath=Project Outputs for EE Project - Copy\Mother_Board.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed.REP
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Copper_Plane_1.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed.REP
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Copper_Plane_2.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Copper_Plane_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Keep-out.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Legend_Bot.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Legend_Top.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Mechanical_2.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Mechanical_3.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Mechanical_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_NPTH_Drill.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Mechanical_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Paste_Bot.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Paste_Top.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Profile.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_PTH_Drill.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Soldermask_Top.gbr
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.DRR
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers - Fixed_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.EXTREP
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GBL
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GBO
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GBP
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GBS
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GD1
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GKO
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GP1
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GP2
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GTL
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GTO
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GTP
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GTS
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.LDP
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.REP
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.RUL
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.REP
 DItemRevisionGUID=
 
 [GeneratedDocument102]
+DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument103]
 DocumentPath=Project Outputs for EE Project - 10.20.2020\Mother_Board_New - 4 Layers.TXT
 DItemRevisionGUID=
 
