@@ -2069,65 +2069,46 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=24V|NetColor=$006E6EFF
+Net1=NetName=24V|NetColor=$0001F1FD
 Net2=NetName=24VC|NetColor=$006E6EFF
 Net3=NetName=3D_ACCEL.3D_CS|NetColor=$006EFF6E
 Net4=NetName=3D_ACCEL.3D_SDI|NetColor=$006EFF6E
 Net5=NetName=3D_ACCEL.3D_SDO|NetColor=$006EFF6E
 Net6=NetName=3D_ACCEL.3D_SPC|NetColor=$006EFF6E
 Net7=NetName=3V3|NetColor=$006E6EFF
-Net8=NetName=3V3P|NetColor=$006E6EFF
-Net9=NetName=9V|NetColor=$006E6EFF
-Net10=NetName=AC1|NetColor=$006E6EFF
-Net11=NetName=ALARMNC|NetColor=clYellow
-Net12=NetName=ALARMNO|NetColor=clYellow
-Net13=NetName=Battery Status|NetColor=$006EFF6E
-Net14=NetName=BYPASSNC|NetColor=clYellow
-Net15=NetName=BYPASSNO|NetColor=clYellow
-Net16=NetName=Fire Loop|NetColor=$0000BE00
-Net17=NetName=Jumper1-2.Jumper1|NetColor=$006EFF6E
-Net18=NetName=Jumper1-2.Jumper2|NetColor=$006EFF6E
-Net19=NetName=Latch_In|NetColor=$006EFF6E
-Net20=NetName=M/CS1|NetColor=$000099FF
-Net21=NetName=M/RES|NetColor=$000099FF
-Net22=NetName=MA0|NetColor=$000099FF
-Net23=NetName=MB_1|NetColor=$000099FF
-Net24=NetName=MB_2|NetColor=$000099FF
-Net25=NetName=MB_3|NetColor=$000099FF
-Net26=NetName=MBK_Voltage_Control|NetColor=$000099FF
-Net27=NetName=MCLR|NetColor=$0000BE00
-Net28=NetName=MLCD_Voltage_Control|NetColor=$000099FF
-Net29=NetName=MSCL|NetColor=$000099FF
-Net30=NetName=MSI|NetColor=$000099FF
-Net31=NetName=N00000|NetColor=$006EFF6E
-Net32=NetName=NetTS1_1|NetColor=$006E6EFF
-Net33=NetName=NetTS1_10|NetColor=$00FF6EFF
-Net34=NetName=NetTS1_2|NetColor=$006E6EFF
-Net35=NetName=NetTS1_7|NetColor=$00FF6EFF
-Net36=NetName=NetTS1_8|NetColor=$00FF6EFF
-Net37=NetName=NetTS1_9|NetColor=$00FF6EFF
-Net38=NetName=Offboard_Out.Alarm Relay|NetColor=$006EFF6E
-Net39=NetName=Offboard_Out.Bypass Relay|NetColor=$006EFF6E
-Net40=NetName=Offboard_Out.Magnet|NetColor=$006EFF6E
-Net41=NetName=Offboard_Out.Siren|NetColor=$006EFF6E
-Net42=NetName=OKC In|NetColor=$006EFF6E
-Net43=NetName=PadA-B.PadA|NetColor=$006EFF6E
-Net44=NetName=PadA-B.PadB|NetColor=$006EFF6E
-Net45=NetName=Pgm_Pins.PGC|NetColor=$006EFF6E
-Net46=NetName=Pgm_Pins.PGD|NetColor=$006EFF6E
-Net47=NetName=PGND|NetColor=$006E6EFF
-Net48=NetName=Relays.ALARM|NetColor=$00FF6EFF
-Net49=NetName=Relays.ALARMC|NetColor=$00FF6EFF
-Net50=NetName=Relays.BYPASS|NetColor=$00FF6EFF
-Net51=NetName=Relays.BYPASSC|NetColor=$00FF6EFF
-Net52=NetName=SIGNALS.Bypass|NetColor=$006EFF6E
-Net53=NetName=SIGNALS.DPS|NetColor=$006EFF6E
-Net54=NetName=SIGNALS.IKC|NetColor=$006EFF6E
-Net55=NetName=SIGNALS.Latch|NetColor=$006EFF6E
-Net56=NetName=SIGNALS.OKC|NetColor=$006EFF6E
-Net57=NetName=SIGNALS.Test Mode|NetColor=$006EFF6E
-Net58=NetName=TEST|NetColor=$006EFF6E
-Net59=NetName=VDD|NetColor=$006E6EFF
+Net8=NetName=3V3C|NetColor=$006EFF6E
+Net9=NetName=3V3P|NetColor=$006E6EFF
+Net10=NetName=9V|NetColor=$006E6EFF
+Net11=NetName=9V_INT|NetColor=$00FF6EFF
+Net12=NetName=9VC|NetColor=clYellow
+Net13=NetName=AC1|NetColor=$006E6EFF
+Net14=NetName=ALARMNC|NetColor=clYellow
+Net15=NetName=ALARMNO|NetColor=clYellow
+Net16=NetName=BYPASSNC|NetColor=clYellow
+Net17=NetName=BYPASSNO|NetColor=clYellow
+Net18=NetName=Jumper1-2.Jumper1|NetColor=$006EFF6E
+Net19=NetName=Jumper1-2.Jumper2|NetColor=$006EFF6E
+Net20=NetName=NetTS1_1|NetColor=$006E6EFF
+Net21=NetName=NetTS1_10|NetColor=$00FF6EFF
+Net22=NetName=NetTS1_2|NetColor=$006E6EFF
+Net23=NetName=NetTS1_7|NetColor=$00FF6EFF
+Net24=NetName=NetTS1_8|NetColor=$00FF6EFF
+Net25=NetName=NetTS1_9|NetColor=$00FF6EFF
+Net26=NetName=Offboard_Out.Siren|NetColor=$006EFF6E
+Net27=NetName=OKC In|NetColor=$006EFF6E
+Net28=NetName=PadA-B.PadA|NetColor=$006EFF6E
+Net29=NetName=PadA-B.PadB|NetColor=$006EFF6E
+Net30=NetName=Pgm_Pins.PGC|NetColor=$006EFF6E
+Net31=NetName=Pgm_Pins.PGD|NetColor=$006EFF6E
+Net32=NetName=PGND|NetColor=$006E6EFF
+Net33=NetName=SIGNALS.Bypass|NetColor=$006EFF6E
+Net34=NetName=SIGNALS.DPS|NetColor=$006EFF6E
+Net35=NetName=SIGNALS.IKC|NetColor=$006EFF6E
+Net36=NetName=SIGNALS.Latch|NetColor=$006EFF6E
+Net37=NetName=SIGNALS.OKC|NetColor=$006EFF6E
+Net38=NetName=SIGNALS.Test Mode|NetColor=$006EFF6E
+Net39=NetName=VDD|NetColor=$006E6EFF
+Net40=NetName=VDD_INT|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
